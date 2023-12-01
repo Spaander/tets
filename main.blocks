@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="$?UlsD@u%_^|F48XYziY">colorbit_51bit</variable><variable id=",S3/Oa+WEq8iijP[Ejl=">colorbit_51bit2</variable></variables><block type="gamerbit_onevent" id="|+@J0$]G{]7Oq(E)h;73" x="0" y="0"><field name="button">GamerBitPin.P1</field><field name="event">GamerBitEvent.Down</field><statement name="HANDLER"><block type="device_show_leds" id="oB,J/[04|1yPGJo]gRG,"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . .
+        `</field><next><block type="device_pause" id="na8xIGL|0@}a0FGmxw#b"><value name="pause"><shadow type="timePicker" id="v]]3Z{|bz:tplEq=a{.1"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="{UCrkZox1]0!46-s2(rR"></block></next></block></next></block></statement></block><block type="gamerbit_onevent" id="X;u#wGPpZvY(3]Jh:OjC" x="410" y="0"><field name="button">GamerBitPin.P2</field><field name="event">GamerBitEvent.Down</field><statement name="HANDLER"><block type="device_show_leds" id="Jn8?h(?F(Qb?qCB+l`Pn"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . #
+        `</field><next><block type="device_pause" id="P)e(p}hAq-Q2l_N40@a/"><value name="pause"><shadow type="timePicker" id="yN5xMg!}e82E(]:et9{0"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="+Vk)FX{.SAV2(43?n,qo"></block></next></block></next></block></statement></block><block type="gamerbit_onevent" id="w3xxN]5P+H)DlZLQneNv" x="-2" y="415"><field name="button">GamerBitPin.P1</field><field name="event">GamerBitEvent.Up</field><statement name="HANDLER"><block type="device_show_leds" id="A}gD_MNZTQyc++]~((v?"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="C4:hqeh0gt3fx*!*iFyi"><value name="pause"><shadow type="timePicker" id="u[xO@OGSYU*vd[#F.pNk"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="GlafofZ_k`S?A.!c=DI~"></block></next></block></next></block></statement></block><block type="gamerbit_onevent" id="m?D.C)L3WXTQy!-{[#_~" x="409" y="423"><field name="button">GamerBitPin.P2</field><field name="event">GamerBitEvent.Up</field><statement name="HANDLER"><block type="device_show_leds" id=";QzVfub^!S=Db)s2Z6vI"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="KsYSNlCZpJjpq$V;)P9D"><value name="pause"><shadow type="timePicker" id="5)WM/{:Hu~QmI+Db+?)C"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="s3NqF}~!mBY/P(lu@_jD"></block></next></block></next></block></statement></block><block type="gamerbit_onevent" id="(B9HAMh.wqj`2$.m7gvH" x="9" y="845"><field name="button">GamerBitPin.P5</field><field name="event">GamerBitEvent.Click</field><statement name="HANDLER"><block type="device_show_leds" id="nqR8-[@hAo^o9fYRoNB6"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # . # . 
+        # . # . # 
+        # . . . #
+        `</field><next><block type="device_pause" id="]iK(dT;8:Xz3Pp1pmG`/"><value name="pause"><shadow type="timePicker" id="5eCwY+HeI;wb+e)l`)8j"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="7hI~U)DbaNyX@+o`a.VR"></block></next></block></next></block></statement></block><block type="gamerbit_onevent" id="6`B[RV|7wh}8a)fmFgL1" x="400" y="848"><field name="button">GamerBitPin.P11</field><field name="event">GamerBitEvent.Click</field><statement name="HANDLER"><block type="device_show_leds" id="YVOR.JMwxs_L!S3qx:g:"><field name="LEDS">`
+        # # # . . 
+        # . # . . 
+        # # # # . 
+        # . . # . 
+        # # # # .
+        `</field><next><block type="device_pause" id="]~_xFyK]MXu7_=XMM)Qi"><value name="pause"><shadow type="timePicker" id="5jz5=dvr3|ZP*w`FIrF4"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="[V+#|TOE.8X~f-n;i?:8"></block></next></block></next></block></statement></block></xml>
